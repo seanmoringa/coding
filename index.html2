@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Music</title>
+</head>
+<body>
+    <h1><strong>Music </strong></h1>
+    <hr>
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT--Dw2ROkNDUg27hhCYlG-mU_VD_sKmyvFxg&usqp=CAU" alt="Singer" title="Singer">
+    <h3><strong>Music is an art form that combines either vocal or instrumental sounds, sometimes both, using form, harmony, and expression of emotion to convey an idea</strong></h3>
+    
+    <p>There are different types of music such as</p> 
+    <ol>
+        <li>Rap</li>
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpuB8FlZfgxCzPqBi0UO-LxpE5ihTImM49xA&usqp=CAU" alt="rappers" title="rappers">
+        <dl>
+            <dt><a href="https://www.youtube.com/channel/UC8zJedg1f4sKnyuHWeS6vyw">50 cent </a></dt>
+            <dd>This takes you to a rappers channel</dd>
+        </dl>
+        <li>K-pop</li>
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8_heeU53i005JE9yyMcIJP7dJwI0Bra02AA&usqp=CAU" alt="BTS" title="BTS">
+        <dl>
+            <dt><a href="https://www.youtube.com/@HYBELABELS">HYBE LABELS </a></dt>
+            <dd>This takes you to a k-pop channel</dd>
+        </dl>
+        <li>Jazz</li>
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfadJ044HBe0c9aY-qLO4L0n9k0YDizn3mEw&usqp=CAU" alt="Jazz" title="Jazz">
+        <dl>
+            <dt><a href="https://www.youtube.com/channel/UCyUTC3jCAaLd639lo9n9Bqw">
+                Cafe Cozy Jazz </a></dt>
+            <dd>This takes you to a jazz channel</dd>
+        </dl>
+    </ol>
+    <br>
+    <p>And many other forms of music that all bring people together</p>
+   
+</body>
+</html>
